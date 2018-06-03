@@ -1,3 +1,4 @@
+% By Mehrdad Gharib Shirangi (mehrdad.shirangi@gmail.com)
 function plot2DpermMain(sol,jens,Nx,Ny,maxColor,minColor,tStep,iStepVec,maxnwells,NwDrill)
 % plot2DpermMain(sol,jens,Nx,Ny)
 % plots the evolution of permeability field for realization # j 
